@@ -1,0 +1,158 @@
+﻿Installing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Creating EventLog source RunHotspotService in log Application...
+Rolling back assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Restoring event log to previous state for source RunHotspotService.
+Installing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Creating EventLog source RunHotspotService in log Application...
+Rolling back assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Restoring event log to previous state for source RunHotspotService.
+Installing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+Installing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\ExtendedWiFiHotspot\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+Removing EventLog source RunHotspotService.
+Service RunHotspotService is being removed from the system...
+Service RunHotspotService was successfully removed from the system.
+Attempt to stop service RunHotspotService.
+Installing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+Removing EventLog source RunHotspotService.
+Service RunHotspotService is being removed from the system...
+Service RunHotspotService was successfully removed from the system.
+Installing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Uninstalling assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+Removing EventLog source RunHotspotService.
+Service RunHotspotService is being removed from the system...
+Service RunHotspotService was successfully removed from the system.
+Installing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
+Installing service RunHotspotService...
+Service RunHotspotService has been successfully installed.
+Creating EventLog source RunHotspotService in log Application...
+Committing assembly 'F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe'.
+Affected parameters are:
+   i = 
+   logfile = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.InstallLog
+   assemblypath = F:\temp\ExtendedWiFiHotspot-service\ExtendedWiFiHotspot\bin\Debug\ExtendedWiFiHotspot.exe
+   logtoconsole = 
